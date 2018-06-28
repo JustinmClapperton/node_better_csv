@@ -1,0 +1,8 @@
+{
+  "name": "node_better_csv",
+  "version": "1.0.0",
+  "description": "Better CSV parser for use with Node",
+  "main": "index.ts",
+  "author": "Justin Clapperton",
+  "license": "MIT"
+}
